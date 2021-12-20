@@ -10,9 +10,9 @@
 
 - [Title](#-title)
 - [Skill](#-skill)
-- [Development Stack](#-development Stack)
+- [Development Stack](#-development-stack)
 - [Description](#-description)
-- [Production Environment](#-Production Environment)
+- [Production Environment](#-production-environment)
 - [Example](#-example)
 - [License](#-license)
 
