@@ -61,7 +61,7 @@
 - Backend는 Django REST framework를 사용해 API를 구축했습니다.
 - Frontend는 React를 사용해 개발했습니다. 
 
-![project structure](https://github.com/ha4219/term-project/assets/project_structure.png)
+![project structure](https://github.com/ha4219/term-project/blob/main/assets/project_structure.png)
 
 
 
@@ -83,15 +83,11 @@
 
 2. [Set up Backend]()
 
-   ![Django](https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png)
-
 3. [Set up Frontend]()
-
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png" alt="React" style="zoom:200%;" />
 
 ## 📱 Example
 
-![example](https://github.com/ha4219/term-project/assets/example.png)
+![example](https://github.com/ha4219/term-project/blob/main/assets/example.png)
 
 ## 📄 License
 
