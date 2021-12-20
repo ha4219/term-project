@@ -1,0 +1,161 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+  /* background-color: rgb(21,184,129); */
+  padding-left: 10vh;
+  padding-right: 10vh;
+  padding-bottom: 10vh;
+  padding-top: 10vh;
+  height: 100vh;
+}
+.statusHead {
+  font-weight: bold;
+  margin-bottom: 2vh;
+  padding-bottom: 2vh;
+  border-bottom: 1px dashed;
+  text-align: center;
+}
+
+.food {
+  padding: 1vh;
+  margin-bottom: 1vh;
+  border-bottom: 1px solid;
+}
+
+.predictContainer {
+  margin-top: 2vh;
+  border: 1px solid;
+  border-radius: 10px;
+}
+
+.predictLabel {
+  font-weight: bold;
+  font-size: 2vh;
+  border-bottom: 1vh solid #1A90FF;
+}
+
+.beforeContainer {
+  margin-top: 2vh;
+  border: 1px solid;
+  border-radius: 10px;
+}
+
+.beforeLabel {
+  font-weight: bold;
+  font-size: 2vh;
+  border-bottom: 1vh solid #1A90FF;
+}
+
+.cancle {
+}
+.auto {
+  margin: 1vh;
+}
+
+.predictBtn {
+  margin-top: 1vh;
+}
+.buttonContainer {
+  margin-bottom: 1vh;
+}
+
+.bonobono{
+  padding-bottom: 10vh;
+    /* background-color: rgb(21,184,129); */
+}
+
+.carbohydrate {
+
+}
+.card {
+  background-color: rgba(255, 0, 0, 0.8);
+}
+
+.auto {
+  width: 100%;
+  text-align: left;
+}
+
+.status {
+  /* background-color: rgba(0, 255, 0, 0.8); */
+}
+
+.food {
+  /* background-color: rgba(0, 0, 255, 0.8); */
+}
+
+.predict {
+  background-color: rgba(255, 0, 0, 0.8);
+}
+
+.noBtn {
+  padding: 0;
+  background-color: transparent;
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+}
+
+.btnImg {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+
+.mainTable {
+  width: 100%;
+  height: 10%;
+  border-collapse: separate;
+  border-spacing: 0.3rem 0.3rem;
+}
+
+.main0 {
+  background-image: url(./assets/main0.jpeg);
+  background-size: cover;
+  border-radius: 1%;
+}
+.main1 {
+  background-image: url(./assets/main1.jpeg);
+  background-size: cover;
+  border-radius: 1%;
+}
+.main2 {
+  background-image: url(./assets/main2.jpeg);
+  background-size: cover;
+  border-radius: 1%;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
