@@ -56,7 +56,7 @@
 ## 🐧Description
 
 - 이 프로젝트는 영양소 기반 음식 군집을 추천해주기 위해 non-supervised learning 중 하나인 clustering을 사용했습니다.
-- 데이터는 식품의약품안전처에서 제공해주는 데이터를 사용했고 모델은 현재 Gaussian Mixture Model 사용하고 있습니다. 해당 내용은 note를 참고해주시면 감사하겠습니다.
+- 데이터는 식품의약품안전처에서 제공해주는 데이터를 사용했고 모델은 현재 Gaussian Mixture Model 사용하고 있습니다. 해당 내용은 [note](https://github.com/ha4219/term-project/tree/main/note)를 참고해주시면 감사하겠습니다.
 - Backend는 Django REST framework를 사용해 API를 구축했습니다.
 - Frontend는 React를 사용해 개발했습니다. 
 
