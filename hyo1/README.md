@@ -31,5 +31,5 @@
 
   현재 프로젝트는 hyo1 directory에 있는 pca.pkl, minmax_scaler.pkl, gmm.pkl을 불러오고 있습니다. 그렇기에 해당 파일을 변경하거나 아니면 model을 hyo1 폴더에 올려서 해당 path를 수정해주는 방법이 있습니다.
 
-  ![load](https://github.com/ha4219/term-project/blob/main/assets/load_model.png)
+  ![load](https://github.com/ha4219/term-project/blob/main/assets/model_load.png)
 
