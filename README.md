@@ -25,7 +25,6 @@
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg)
 유저의 부족한 영양소를 기반으로 음식을 추천해주는 Application
 
-- Food Recommand For You
 - [LINK](http://ec2-54-180-149-10.ap-northeast-2.compute.amazonaws.com/)
 
 
