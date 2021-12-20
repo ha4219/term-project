@@ -80,9 +80,9 @@
    $ cd term-project
    ```
 
-2. [Set up Backend](https://github.com/ha4219/term-project/hyo1)
+2. [Set up Backend](https://github.com/ha4219/term-project/tree/main/hyo1)
 
-3. [Set up Frontend](https://github.com/ha4219/term-project/young)
+3. [Set up Frontend](https://github.com/ha4219/term-project/tree/main/young)
 
 ## 📱 Example
 
