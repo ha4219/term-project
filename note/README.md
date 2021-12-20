@@ -34,7 +34,7 @@
 
    1. feature selection
 
-      241개의 feature 중 [식품의약품안전처의 영양표시 가이드라인](https://www.mfds.go.kr/brd/m_1060/view.do?seq=14738&srchFr=&srchTo=&srchWord=%ED%95%9 C+%EB%88%88%EC%97%90+%EB%B3%B4%EB%8A%94+%EC%98%81%EC%96%91%ED% 91%9C%EC%8B%9C+%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8&sr chTp=0&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&Data_stts_gub un=C9999&page=1#none)을 참고하여 1일 영양성분 기준치 33개 중 데이터베이스에 없는 크롬을 제외한 32개 영양성분을 선택한다.
+      241개의 feature 중 [식품의약품안전처의 영양표시 가이드라인](https://www.mfds.go.kr/brd/m_1060/view.doseq=14738&srchFr=&srchTo=&srchWord=%ED%95%9C+%EB%88%88%EC%97%90+%EB%B3%B4%EB%8A%94+%EC%98%81%EC%96%91%ED%91%9C%EC%8B%9C+%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8&srchTp=0&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&Data_stts_gub un=C9999&page=1#none)을 참고하여 1일 영양성분 기준치 33개 중 데이터베이스에 없는 크롬을 제외한 32개 영양성분을 선택한다.
 
       ![0](https://github.com/ha4219/term-project/blob/main/assets/0.png)
 
